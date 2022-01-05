@@ -61,4 +61,21 @@ Data cleaning procedure:
   <img src="pics/Monthly_number_of_rides.png" name="Monthly number of rides">
   <img src="pics/Monthly_number_of_rides_by_membership_type.png" name="Monthly number of rides by membership type">
   <img src="pics/Number_of_rides_by_weekday.png" name="Number of rides by weekday">
+  <img src="pics/Average_Monthly_Trip_Length.png" name="Average monthly trip length">
+  <img src="pics/Average_Ride_Length_Weekday.png" name="Average weekday trip length">
+  <img src="pics/Bike_type.png" name="Distribution of bike type">
 </details>
+
+
+## 5."Summary"
+Casual riders and annual member riders have different purposes of using the bike service. Casual riders are more likely to use the bikes for long/ weekend trips while annual member riders have a consistent short routine.
+
+Summer months and classic bikes are popular in demands among two groups.
+
+## 6."Recommendations"
+Offer different tier memberships (routine vs casual/ weekend use) + Offer a rewards program as an incentive for converting to members.
+
+Hold events/promotions during the summer months and weekends.
+
+Use digital media platforms for marketing campaigns and promotion events.
+
