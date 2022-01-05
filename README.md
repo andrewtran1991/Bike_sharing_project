@@ -57,7 +57,7 @@ Data cleaning procedure:
 ## 4."Analyze"
 
 <details>
-  <summary>Casual riders vs. annual member</summary><details>
+  <summary>Casual riders vs. annual member</summary>
   <img src="pics/Monthly_number_of_rides.png" name="Monthly number of rides">
   <img src="pics/Monthly_number_of_rides_by_membership_type.png" name="Monthly number of rides by membership type">
   <img src="pics/Number_of_rides_by_weekday.png" name="Number of rides by weekday">
